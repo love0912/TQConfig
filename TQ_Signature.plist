@@ -5,9 +5,9 @@
 	<key>SignatureKey</key>
 	<string>TQSignature</string>
 	<key>SignSaltStartIndex</key>
-	<integer>7</integer>
+	<string>7</string>
 	<key>SignSaltLength</key>
-	<integer>3</integer>
+	<string>3</string>
 	<key>SignLoginName</key>
 	<string>SignLoginName</string>
 	<key>SignLoginPwd</key>

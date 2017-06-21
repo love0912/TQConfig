@@ -11,7 +11,7 @@
 		<key>APIReturnData</key>
 		<string>data</string>
 		<key>APIReturnCodeSuccess</key>
-		<integer>1</integer>
+		<string>1</string>
 	</dict>
 	<key>WithoutInternet</key>
 	<dict>
